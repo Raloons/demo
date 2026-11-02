@@ -32,11 +32,6 @@ Here's a smattering of related modding resources that can be of use:
 - [SaveAlchemist](https://labare.eu/DeadCells/SaveAlchemist) by LAbare
   - A port of savetool to the browser
 
-## Community guides
-
-- [DCCM-Modding-Handbook](https://github.com/Raloons/DCCM-Modding-Guides) ([live site](https://raloons.github.io/DCCM-Modding-Guides/)) by Raloons
-  - Community-written DCCM tutorials: setup, custom equipment, effects, gameplay mods, biomes, and debugging, with complete worked examples
-
 ## Modding Frameworks & Mods
 
 :::info Mod labels
